@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=ob
+comment1.target=Box(Box)
+comment2.params=w\ h\ d
+comment2.target=Box(double,\ double,\ double)
+comment3.params=
+comment3.target=Box()
+comment4.params=len
+comment4.target=Box(double)
+comment5.params=
+comment5.target=double\ volume()
+numComments=6

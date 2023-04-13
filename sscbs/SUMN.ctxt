@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sum
+comment1.params=A
+comment1.target=void\ total(int)
+comment2.params=A\ B
+comment2.target=void\ total(int,\ int)
+comment3.params=A\ B\ C
+comment3.target=void\ total(int,\ int,\ int)
+comment4.params=A\ B\ C\ D
+comment4.target=void\ total(int,\ int,\ int,\ int)
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Complex
+comment1.params=
+comment1.target=Complex()
+comment2.params=
+comment2.target=void\ addi()
+comment3.params=
+comment3.target=void\ multiply()
+comment4.params=a\ b
+comment4.target=void\ tostring(int,\ int)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tst
+comment1.params=i\ j
+comment1.target=Tst(int,\ int)
+comment2.params=o
+comment2.target=boolean\ equals(Tst)
+numComments=3
